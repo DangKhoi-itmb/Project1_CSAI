@@ -1,0 +1,14 @@
+{
+    // Đường dẫn gốc của project
+    "python.analysis.extraPaths": [
+        "D:/AI_Project"
+    ],
+    "python.autoComplete.extraPaths": [
+        "D:/AI_Project"
+    ],
+
+    // (Tuỳ chọn) Tắt lỗi MissingImports nếu bạn vẫn thấy cảnh báo
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
